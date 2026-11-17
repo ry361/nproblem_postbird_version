@@ -1,0 +1,11 @@
+{
+  "postbird": {
+    "version": "1.0.0",
+    "releaseDate": "2026-11-17",
+    "critical": false,
+    "changelog": [],
+    "missingFeatures": [],
+    "removed": [],
+    "download": "https://github.com/ry361/nproblem-postbird"
+  }
+}
